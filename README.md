@@ -1,6 +1,7 @@
 # Startup-Success-Prediction-
 
-Problem Statement:
+<h4>Problem Statement:</h4>
+
 What is the framing question of your analysis and what the purpose of the
 model/system you plan to build?
 
@@ -17,7 +18,8 @@ Who benefits from exploring this question or building this model/system?
 - Investors
 - Entrepreneurs
 
-Data Description:
+<h4>Data Description:</h4>
+
 The dataset used is “Start Up Investments” from Crunchbase which is a
 platform for finding business information about private and public
 companies. The dataset is acquired through a secondary source which is
@@ -29,7 +31,9 @@ funding and the target feature for this analysis: status.
 Upon initial view, the dataset seems imbalanced as the data contains %6
 acquired startups, %5 closed and above 80% operating startups.
 
-Tools:
+
+<h4>Tools:</h4>
+
 The tools used for this project will include:
 1-Python3: as the main programming language used
 2-Jupyter: as the IDE for python
