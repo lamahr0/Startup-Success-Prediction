@@ -34,12 +34,12 @@ acquired startups, %5 closed and above 80% operating startups.
 
 <h4>Tools:</h4>
 
-The tools used for this project will include:
+The tools used for this project will include:<br/>
 1-Python3: as the main programming language used<br/>
 2-Jupyter: as the IDE for python<br/>
 3-Numpy: to manipulate the dataset<br/>
 4-Pandas: to clean and preprocess the dataset<br/>
-5-Matplotlib: to visualize the dataset<br/>
-6-Seaborn: to visualize the dataset<br/>
-7- sklearn: for feature selection and modeling<br/>
+5-Plotly: to visualize the dataset<br/>
+6- sklearn: for feature selection and modeling<br/>
+7- imblearn: to deal with the imbalanced dataset
 
