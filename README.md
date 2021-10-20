@@ -39,7 +39,19 @@ The tools used for this project include:<br/>
 2-Jupyter: as the IDE for python<br/>
 3-Numpy: to manipulate the dataset<br/>
 4-Pandas: to clean and preprocess the dataset<br/>
-5-Plotly: to visualize the dataset<br/>
+5-Seaborn: to visualize the dataset<br/>
 6- sklearn: for feature selection and modeling<br/>
 7- imblearn: to deal with the imbalanced dataset
+
+<h4>Code</h4>
+There are two instances of the code:
+
+Startup Success Prediction_ROS is the code for building the model with random over sampler 
+Startup Success Prediction_SMOTE is the code for building the model with the Synthetic Minority Oversampling Technique
+
+
+
+
+
+
 
