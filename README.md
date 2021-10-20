@@ -46,7 +46,7 @@ The tools used for this project include:<br/>
 <h4>Code</h4>
 There are two instances of the code:
 
-Startup Success Prediction_ROS is the code for building the model with random over sampler 
+Startup Success Prediction_ROS is the code for building the model with random over sampler<br/>
 Startup Success Prediction_SMOTE is the code for building the model with the Synthetic Minority Oversampling Technique
 
 
